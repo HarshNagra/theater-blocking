@@ -1,0 +1,31 @@
+{
+    "parts": [
+      {
+        "blocking": [
+          {
+            "name": "Hamlet", 
+            "position": 5
+          }, 
+          {
+            "name": "Claudius", 
+            "position": 2
+          }
+        ], 
+        "part": 1
+      }, 
+      {
+        "blocking": [
+          {
+            "name": "Hamlet", 
+            "position": 0
+          }, 
+          {
+            "name": "Claudius", 
+            "position": 3
+          }
+        ], 
+        "part": 2
+      }
+    ], 
+    "scriptNum": 1
+  }
